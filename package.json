@@ -1,0 +1,23 @@
+{
+  "name": "hitobito_pbs-tests",
+  "version": "1.0.0",
+  "description": "Cypress.io tests for the PBS installation of hitobito (MiData)",
+  "main": "node_modules/.bin/cypress open",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.3.1"
+  },
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlobeltrame/hitobito_pbs-tests.git"
+  },
+  "author": "Carlo Beltrame v/o Cosinus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlobeltrame/hitobito_pbs-tests/issues"
+  },
+  "homepage": "https://github.com/carlobeltrame/hitobito_pbs-tests#readme"
+}
